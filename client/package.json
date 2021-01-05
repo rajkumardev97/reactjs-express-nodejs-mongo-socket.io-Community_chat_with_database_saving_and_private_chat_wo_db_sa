@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@react-pdf/renderer": "^1.6.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "classnames": "^2.2.6",
     "datatables.net": "^1.10.19",
     "html2canvas": "^1.0.0-alpha.12",
