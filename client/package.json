@@ -9,7 +9,7 @@
     "datatables.net": "^1.10.19",
     "html2canvas": "^1.0.0-alpha.12",
     "jquery": "^3.3.1",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.15",
     "moment": "^2.22.2",
