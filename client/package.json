@@ -35,7 +35,7 @@
     "react-to-print": "^2.1.1",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.5.0",
     "uuid": "^3.3.2",
     "written-number": "^0.9.1"
   },
